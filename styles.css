@@ -1,0 +1,45 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: left;
+    text-size: 45px;
+    
+    
+}
+
+img{
+    float: left;
+    padding: 0% 10px 0;
+    ;
+    
+}
+
+p {
+  font-size: 55px;
+  font-family:1 'Times New Roman', Times, serif;
+  text-align: initial;
+}
+
+  div {
+    text-align: center;
+    font-size: 90PX;
+    color: white;
+    text-decoration: none;
+
+}
+
+.ordered-list{
+  list-style: none;
+}
+
+.hover{
+color: red;
+}
+
+#button1{
+  background-color: red; 
+  color: white; 
+  font-size: large;
+}
